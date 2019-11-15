@@ -14,8 +14,4 @@ package com.atguigu.active.A1;/**
  * @create: 2019-11-15 19:55
  **/
 public class txt {
-    public static void main(String[] args) {
-        System.out.println();
-        System.out.println(13);
-    }
 }
