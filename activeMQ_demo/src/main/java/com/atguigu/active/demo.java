@@ -6,7 +6,6 @@ package com.atguigu.active;/**
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * @program: mq
@@ -23,7 +22,7 @@ public class demo {
 
         List<String> s = new ArrayList<>();
         s.add("a");
-        Collectors.c
+        System.out.println("1");
         for (String ss : s){
             System.out.println(ss);
             s.add("b");
