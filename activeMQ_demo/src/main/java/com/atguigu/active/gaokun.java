@@ -7,4 +7,7 @@ package com.atguigu.active;
  * @fileName gaokun
  */
 public class gaokun {
+    public static void main(String[] args) {
+        System.out.println();
+    }
 }
