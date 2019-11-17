@@ -19,6 +19,7 @@
 
     <modules>
         <module>activeMQ_demo</module>
+        <module>activeMQ_spring</module>
     </modules>
 
 
